@@ -13,5 +13,5 @@ by exhausting the resource pool
 USAGE: In command prompt go to the directory the
  file is and then python se1.py <url>
 
-you can add "safe" after url, to autoshut after dos
+
 ---------------------------------------------------
